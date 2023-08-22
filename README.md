@@ -15,11 +15,10 @@ APPROACH
 ![PrivateBankingBigFiveAngola approach](https://github.com/domingosdeeulariadumba/AngolaPrivateBankingAnalysis_SC/assets/110714056/9974b7c7-54c3-42c4-92d5-a1fb81bfbb96)
 
 TOOLS
-![PrivateBankingBigFiveAngola tools](https://github.com/domingosdeeulariadumba/AngolaPrivateBankingAnalysis_SC/assets/110714056/79a45fcf-29c6-429e-8912-702b1d4de7b4)
+![PrivateBankingBigFiveAngola tools](https://github.com/domingosdeeulariadumba/AngolaPrivateBankingAnalysis_SC/assets/110714056/b139cef1-5e14-4261-a343-b2ab1a70c2bd)
 
 REFERENCES
-![PrivateBankingBigFiveAngola references](https://github.com/domingosdeeulariadumba/AngolaPrivateBankingAnalysis_SC/assets/110714056/efae31da-e749-4c27-950e-aeeb06e92212)
-
+![PrivateBankingBigFiveAngola references](https://github.com/domingosdeeulariadumba/AngolaPrivateBankingAnalysis_SC/assets/110714056/609eae23-3998-415e-bea1-48f8d7835d15)
 
 ACKNOWLEDGEMENT
 
